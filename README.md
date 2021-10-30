@@ -1,2 +1,2 @@
 # SwiftSimpleCalculator
-Simple iOS Calculator app
+ SwiftSimpleCalculator
